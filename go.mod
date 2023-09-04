@@ -10,12 +10,16 @@ require (
 	github.com/dgrr/fastws v1.0.3 // indirect
 	github.com/fatih/structs v1.1.0
 	github.com/fiore/kucoin-go v0.0.0-20190107105632-5a814c26befa
-	github.com/gofrs/uuid v4.0.0+incompatible
-	github.com/juju/errors v0.0.0-20200330140219-3fe23663418f
-	github.com/nlopes/slack v0.6.0
+	github.com/franela/goblin v0.0.0-20211003143422-0a4f594942bf // indirect
+	github.com/gofrs/uuid v4.2.0+incompatible
+	github.com/juju/errors v1.0.0
+	github.com/k0kubun/colorstring v0.0.0-20150214042306-9440f1994b88 // indirect
+	github.com/kr/pretty v0.3.1 // indirect
+	github.com/mattn/go-colorable v0.1.8 // indirect
+	github.com/mattn/go-isatty v0.0.13 // indirect
+	github.com/onsi/gomega v1.27.10 // indirect
 	github.com/pharrisee/poloniex-api v0.0.0-20200602104112-ce8fafd80b26
 	github.com/saniales/go-hitbtc v0.0.0-20190107211814-7468d66640dd
-	github.com/satori/go.uuid v1.2.0
 	github.com/shomali11/slacker v0.0.0-20201209125859-873a67578e50
 	github.com/shopspring/decimal v1.2.0
 	github.com/sirupsen/logrus v1.7.0
@@ -24,7 +28,7 @@ require (
 	github.com/spf13/cobra v1.1.1
 	github.com/thebotguys/golang-bittrex-api v0.0.0-20180802202435-20ec1f520379
 	github.com/toorop/go-bittrex v0.0.2
-	github.com/valyala/fasthttp v1.19.0 // indirect
+	github.com/valyala/fasthttp v1.34.0 // indirect
 	gopkg.in/tucnak/telebot.v2 v2.3.5
 	gopkg.in/yaml.v2 v2.4.0
 )
